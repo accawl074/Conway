@@ -13,7 +13,7 @@
 
 
 # Exemple de résultat pour une grille 8x8 :
-voir : [src/main/resources/output-example](https://github.com/accawl074/Conway-Simulator/blob/master/src/main/resources/output-example)
+voir : [src/main/resources/output-example](https://github.com/accawl074/Conway/blob/master/src/main/resources/output-example)
 
 ## Building 
 
